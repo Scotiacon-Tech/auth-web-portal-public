@@ -1,0 +1,1 @@
+import{u as e}from"./DSs4YqFl.js";import{u as r}from"./CKgcwGBl.js";import{T as a,a8 as s}from"./CAOQfWXx.js";import"./lKELra2E.js";import"./B5CZD0j7.js";const l=a({__name:"logout",setup(n){const o=e(),{logout:t}=r();return t(),s(o.PostLogoutRedirectUri,{external:!0}),(u,m)=>null}});export{l as default};

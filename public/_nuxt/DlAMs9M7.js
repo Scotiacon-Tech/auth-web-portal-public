@@ -1,0 +1,1 @@
+import{b as r}from"./DdjJ-Vhj.js";import{u as s}from"./BUX9gV8r.js";const c=async()=>{const n=await s();try{const o=await $fetch(`${n.issuerUri}.well-known/openid-configuration`,{method:"get"}),t=new r;if(o){const i=JSON.stringify(o);return t.parseJSON(i),t}}catch(o){throw o}throw new Error("oauth discovery failed")};export{c as u};

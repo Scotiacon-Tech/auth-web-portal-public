@@ -1,1 +1,5 @@
-/.well-known/openid-configuration https://auth-api.scotiacon.org.uk/.well-known/openid-configuration 301
+https://auth.furrific.uk/.well-known/openid-configuration https://auth-api.furrific.uk/.well-known/openid-configuration 301
+https://auth.wildnorth.uk/.well-known/openid-configuration https://auth-api.wildnorth.uk/.well-known/openid-configuration 301
+https://auth-demo.knightmare.org.uk/.well-known/openid-configuration https://auth-api-demo.knightmare.org.uk/.well-known/openid-configuration 301
+https://auth.scotiacon.org.uk/.well-known/openid-configuration https://auth-api.scotiacon.org.uk/.well-known/openid-configuration 301
+https://auth.aberacon.wales/.well-known/openid-configuration https://auth-api.aberacon.wales/.well-known/openid-configuration 301
